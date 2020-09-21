@@ -12,7 +12,21 @@ composer install
 ```
 Install package.json dependencies
 ```bash
-composer install
+yarn
+```
+
+```bash
+npm install
+```
+
+Run front 
+```bash
+yarn watch
+```
+
+Run serve
+```bash
+php artisan serve
 ```
 
 #### PS
